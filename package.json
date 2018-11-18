@@ -1,0 +1,23 @@
+{
+  "name": "netrunner-json",
+  "version": "0.1.0",
+  "description": "card data from Android Netrunner in JSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseflorig/netrunner-json.git"
+  },
+  "keywords": [
+    "netrunner",
+    "json"
+  ],
+  "author": "Jesse Florig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesseflorig/netrunner-json/issues"
+  },
+  "homepage": "https://github.com/jesseflorig/netrunner-json#readme"
+}
