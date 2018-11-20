@@ -1,7 +1,3 @@
-import * as data from "./cards";
+const Cards = require("./cards.json");
 
-const cards = {
-  cards: data
-};
-
-export { cards };
+module.exports = Cards;
