@@ -1,0 +1,207 @@
+[
+  {
+    "id": "draft",
+    "name": "Draft",
+    "type": "special",
+    "packs": [
+      { "id": "cw", "name": "Cyber War", "releaseDate": "2014-02-28" },
+      { "id": "ov", "name": "Overdrive", "releaseDate": "2014-03-24" },
+      { "id": "sc", "name": "System Crash", "releaseDate": "2014-11-10" },
+      { "id": "hw", "name": "Hard Wired", "releaseDate": "2016-01-25" }
+    ]
+  },
+  {
+    "id": "core",
+    "name": "Core",
+    "type": "core",
+    "releaseDate": "2012-01-01"
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis",
+    "type": "cycle",
+    "packs": [
+      { "id": "wla", "name": "What Lies Ahead", "releaseDate": "2012-12-01" },
+      { "id": "ta", "name": "Trace Amount", "releaseDate": "2013-01-01" },
+      { "id": "ce", "name": "Cyber Exodus", "releaseDate": "2013-02-01" },
+      {
+        "id": "asis",
+        "name": "A Study in Static",
+        "releaseDate": "2013-03-01"
+      },
+      { "id": "hs", "name": "Humanity's Shadow", "releaseDate": "2013-05-01" },
+      { "id": "fp", "name": "Future Proof", "releaseDate": "2013-06-01" }
+    ]
+  },
+  {
+    "id": "cac",
+    "name": "Creation and Control",
+    "type": "deluxe",
+    "releaseDate": "2013-07-01"
+  },
+  {
+    "id": "spin",
+    "name": "Spin",
+    "type": "cycle",
+    "packs": [
+      { "id": "om", "name": "Opening Moves", "releaseDate": "2013-09-01" },
+      { "id": "st", "name": "Second Thoughts", "releaseDate": "2013-11-01" },
+      { "id": "mt", "name": "Mala Tempora", "releaseDate": "2013-12-01" },
+      { "id": "tc", "name": "True Colors", "releaseDate": "2014-01-01" },
+      { "id": "fal", "name": "Fear and Loathing", "releaseDate": "2014-02-01" },
+      { "id": "dt", "name": "Double Time", "releaseDate": "2014-03-01" }
+    ]
+  },
+  {
+    "id": "hap",
+    "name": "Honor and Profit",
+    "type": "deluxe",
+    "releaseDate": "2014-05-01"
+  },
+  {
+    "id": "lunar",
+    "name": "Lunar",
+    "type": "cycle",
+    "packs": [
+      { "id": "up", "name": "Upstalk", "releaseDate": "2014-07-01" },
+      {
+        "id": "tsb",
+        "name": "The Spaces Between",
+        "releaseDate": "2014-08-01"
+      },
+      { "id": "fc", "name": "First Contact", "releaseDate": "2014-09-01" },
+      { "id": "uao", "name": "Up and Over", "releaseDate": "2014-10-01" },
+      { "id": "atr", "name": "All that Remains", "releaseDate": "2014-11-01" },
+      { "id": "ts", "name": "The Source", "releaseDate": "2014-12-01" }
+    ]
+  },
+  {
+    "id": "oac",
+    "name": "Order and Chaos",
+    "type": "deluxe",
+    "releaseDate": "2015-01-28"
+  },
+  {
+    "id": "sansan",
+    "name": "SanSan",
+    "type": "cycle",
+    "packs": [
+      { "id": "tv", "name": "The Valley", "releaseDate": "2015-04-01" },
+      { "id": "bb", "name": "Breaker Bay", "releaseDate": "2015-04-01" },
+      { "id": "cc", "name": "Chrome City", "releaseDate": "2015-05-01" },
+      { "id": "tu", "name": "The Underway", "releaseDate": "2015-07-01" },
+      { "id": "oh", "name": "Old Hollywood", "releaseDate": "2015-08-01" },
+      {
+        "id": "uot",
+        "name": "The Universe of Tomorrow",
+        "releaseDate": "2015-09-01"
+      }
+    ]
+  },
+  {
+    "id": "dad",
+    "name": "Data and Destiny",
+    "type": "deluxe",
+    "releaseDate": "2015-10-28"
+  },
+  {
+    "id": "mumbad",
+    "name": "Mumbad",
+    "type": "cycle",
+    "packs": [
+      { "id": "kg", "name": "Kala Ghoda", "releaseDate": "2016-01-01" },
+      { "id": "bf", "name": "Business First", "releaseDate": "2016-03-01" },
+      {
+        "id": "dad",
+        "name": "Democracy and Dogma",
+        "releaseDate": "2016-03-01"
+      },
+      { "id": "si", "name": "Salsette Island", "releaseDate": "2016-04-01" },
+      {
+        "id": "tlm",
+        "name": "The Liberated Mind",
+        "releaseDate": "2016-05-01"
+      },
+      { "id": "ftm", "name": "Fear the Masses", "releaseDate": "2016-06-01" }
+    ]
+  },
+  {
+    "id": "flashpoint",
+    "name": "Flashpoint",
+    "type": "cycle",
+    "packs": [
+      { "id": "23s", "name": "23 Seconds", "releaseDate": "2016-07-01" },
+      { "id": "bm", "name": "Blood Money", "releaseDate": "2016-08-01" },
+      { "id": "es", "name": "Escalation", "releaseDate": "2016-10-01" },
+      { "id": "in", "name": "Intervention", "releaseDate": "2016-11-01" },
+      { "id": "ml", "name": "Martial Law", "releaseDate": "2016-12-01" },
+      { "id": "qu", "name": "Quorum", "releaseDate": "2017-01-01" }
+    ]
+  },
+  {
+    "id": "redsand",
+    "name": "Terminal Directive",
+    "type": "campaign",
+    "packs": [
+      { "id": "dc", "name": "Daedalus Complex", "releaseDate": "2017-02-01" },
+      { "id": "so", "name": "Station One", "releaseDate": "2017-03-01" },
+      { "id": "es", "name": "Earth's Scion", "releaseDate": "2017-05-01" },
+      { "id": "baw", "name": "Blood and Water", "releaseDate": "2017-06-01" },
+      { "id": "fm", "name": "Free Mars", "releaseDate": "2017-07-01" },
+      { "id": "cd", "name": "Crimson Dust", "releaseDate": "2017-08-01" }
+    ]
+  },
+  {
+    "id": "core2",
+    "name": "Revised Core Set",
+    "type": "core",
+    "releaseDate": "2017-01-01"
+  },
+  {
+    "id": "kitara",
+    "name": "Kitara",
+    "type": "cycle",
+    "packs": [
+      { "id": "ss", "name": "Soverign Sight", "releaseDate": "2017-12-01" },
+      {
+        "id": "dtwn",
+        "name": "Down the White Nile",
+        "releaseDate": "2018-02-01"
+      },
+      {
+        "id": "cotc",
+        "name": "Council of the Crest",
+        "releaseDate": "2018-03-01"
+      },
+      {
+        "id": "tdatd",
+        "name": "The Devil and the Dragon",
+        "releaseDate": "2018-04-01"
+      },
+      {
+        "id": "win",
+        "name": "Whispers in Nalubaale",
+        "releaseDate": "2018-05-01"
+      },
+      { "id": "ka", "name": "Kampala Ascendant", "releaseDate": "2018-05-01" }
+    ]
+  },
+  {
+    "id": "ro",
+    "name": "Reign and Reverie",
+    "type": "deluxe",
+    "releaseDate": "2018-06-01"
+  },
+  {
+    "id": "mo",
+    "name": "Magnum Opus",
+    "type": "special",
+    "releaseDate": "2018-01-01"
+  },
+  {
+    "id": "napd",
+    "name": "NAPD Multiplayer",
+    "type": "special",
+    "releaseDate": "2018-01-01"
+  }
+]
