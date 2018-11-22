@@ -9477,7 +9477,7 @@
   {
     "baseLink": 0,
     "deckLimit": 1,
-    "faction": "adam",
+    "faction": "ADAM",
     "illustrator": "Matt Zeilinger",
     "influenceLimit": 25,
     "keywords": "Bioroid",
@@ -9494,7 +9494,7 @@
   {
     "cost": 1,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 1,
     "flavor": "Adam raised the hammer. He was free.",
     "illustrator": "Del Borovic",
@@ -9510,7 +9510,7 @@
   {
     "cost": 2,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 3,
     "illustrator": "Jessada Sutthi",
     "keywords": "Console",
@@ -9526,7 +9526,7 @@
   {
     "cost": 3,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 1,
     "flavor": "Bioroids have two brains running in parallel, each capable of running sophisticated programming. There are certain advantages to the setup.",
     "illustrator": "Lili Ibrahim",
@@ -9543,7 +9543,7 @@
   {
     "cost": 0,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 3,
     "flavor": "The Second Directive requires a bioroid to complete its primary function above all other considerations, save the First Directive.",
     "illustrator": "Lili Ibrahim",
@@ -9560,7 +9560,7 @@
   {
     "cost": 2,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 1,
     "flavor": "\"You look tore up, kid. Have a seat, I'll fire up the arc welder.\"",
     "illustrator": "Tiffany Turrill",
@@ -9577,7 +9577,7 @@
   {
     "cost": 0,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 3,
     "flavor": "The Third Directive requires a bioroid to preserve its ability to function and report frequently to Haas-Bioroid for repairs and updates.",
     "illustrator": "Tadas Sidlauskas",
@@ -9594,7 +9594,7 @@
   {
     "cost": 0,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 3,
     "flavor": "The First Directive forbids a bioroid from harming, or through inaction allowing harm to befall, a human being.",
     "illustrator": "Timur Shevtsov",
@@ -11072,7 +11072,7 @@
   {
     "cost": 2,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 5,
     "illustrator": "Caravan Studio",
     "keywords": "Double",
@@ -11741,7 +11741,7 @@
   {
     "cost": 0,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 3,
     "flavor": "\"All bioroids are bound by the Three Directives, but in theory a bioroid could have any number of core directives. Even zero.\"",
     "illustrator": "Ethan Patrick Harris",
@@ -19111,7 +19111,7 @@
   {
     "cost": 0,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 5,
     "flavor": "\"When we're together, I feel like I can do anything!\"",
     "illustrator": "Lili Ibrahim",
@@ -25904,7 +25904,7 @@
   {
     "cost": 0,
     "deckLimit": 3,
-    "faction": "adam",
+    "faction": "ADAM",
     "factionCost": 5,
     "flavor": "\"Could God create a stone so heavy, He could not lift it?\"",
     "illustrator": "Adam S. Doyle",

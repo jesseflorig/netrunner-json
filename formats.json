@@ -1,0 +1,153 @@
+[
+  {
+    "id": "napd-mwl-v20",
+    "name": "NAPD Most Wanted List 2.0",
+    "startDate": "2017-10-01",
+    "corp": {
+      "restricted": [
+        "Bio-Ethics Association",
+        "Estelle Moon",
+        "Fairchild 3.0",
+        "Global Food Initiative",
+        "Hunter Seeker",
+        "Mumba Temple",
+        "Museum of History",
+        "Obokata Protocol"
+      ],
+      "removed": [
+        "Clone Sufferage Movement",
+        "Mumbad City Hall",
+        "Friends in High Places",
+        "Sensie Actors Union"
+      ]
+    },
+    "runner": {
+      "restricted": [
+        "Aesop's Pawn Shop",
+        "Clone Chip",
+        "Employee Strike",
+        "Film Critic",
+        "Gang Sign",
+        "Inversificator",
+        "Levy AR Lab Access",
+        "Magnum Opus"
+      ],
+      "removed": [
+        "Arron Marrón",
+        "Bloo Moose",
+        "Faust",
+        "Rumor Mill",
+        "Salvaged Manadis Armory",
+        "Şifr",
+        "Temüjin Contract"
+      ]
+    }
+  },
+  {
+    "id": "napd-mwl-v21",
+    "name": "NAPD Most Wanted List 2.1",
+    "startDate": "2018-02-26",
+    "corp": {
+      "restricted": [
+        "Bio-Ethics Association",
+        "Brain Rewiring",
+        "Estelle Moon",
+        "Fairchild 3.0",
+        "Global Food Initiative",
+        "Hunter Seeker",
+        "Mother Goddess",
+        "Mumba Temple",
+        "Mumbad City Hall",
+        "Museum of History",
+        "Obokata Protocol",
+        "Whampoa Reclamation"
+      ],
+      "removed": [
+        "Clone Sufferage Movement",
+        "Friends in High Places",
+        "Sensie Actors Union",
+        "Violet Level Clearance"
+      ]
+    },
+    "runner": {
+      "restricted": [
+        "Aesop's Pawn Shop",
+        "Clone Chip",
+        "Employee Strike",
+        "Film Critic",
+        "Gang Sign",
+        "Inversificator",
+        "Levy AR Lab Access",
+        "Magnum Opus",
+        "Rumor Mill",
+        "Tapwrm"
+      ],
+      "removed": [
+        "Arron Marrón",
+        "Bloo Moose",
+        "Faust",
+        "Salvaged Manadis Armory",
+        "Şifr",
+        "Temüjin Contract"
+      ]
+    }
+  },
+  {
+    "id": "napd-mwl-v22",
+    "name": "NAPD Most Wanted List 2.2",
+    "startDate": "2018-09-06",
+    "corp": {
+      "restricted": [
+        "Bio-Ethics Association",
+        "Brain Rewiring",
+        "Bryan Stinson",
+        "Global Food Initiative",
+        "Hunter Seeker",
+        "Mother Goddess",
+        "Mumba Temple",
+        "Mumbad City Hall",
+        "Obokata Protocol",
+        "Jinteki: Potential Unleashed",
+        "Skorpios Defense Systems: Persuasive Power",
+        "Surveyor",
+        "Violet Level Clearance",
+        "Whampoa Reclamation"
+      ],
+      "removed": [
+        "24/7 News Cycle",
+        "Cereberal Imaging: Infinite Frontiers",
+        "Clone Sufferage Movement",
+        "Estelle Moon",
+        "Friends in High Places",
+        "Museum of History",
+        "Sensie Actors Union"
+      ]
+    },
+    "runner": {
+      "restricted": [
+        "Aesop's Pawn Shop",
+        "Clone Chip",
+        "Employee Strike",
+        "Film Critic",
+        "Gang Sign",
+        "Inversificator",
+        "Levy AR Lab Access",
+        "Mad Dash",
+        "Magnum Opus",
+        "Rumor Mill"
+      ],
+      "removed": [
+        "Arron Marrón",
+        "Bloo Moose",
+        "Faust",
+        "Hyper Driver",
+        "Mars for Martians",
+        "Salvaged Manadis Armory",
+        "Şifr",
+        "Tapwrm",
+        "Temüjin Contract",
+        "Zer0"
+      ]
+    }
+  }
+]
